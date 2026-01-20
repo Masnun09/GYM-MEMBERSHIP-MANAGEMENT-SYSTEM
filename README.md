@@ -43,8 +43,7 @@ Gym-Management-System/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gym-membership-system.git
-cd gym-membership-system
+git clone https://github.com/Masnun09/GYM-MEMBERSHIP-MANAGEMENT-SYSTEM.git
 
 ```
 
@@ -55,7 +54,7 @@ Ensure your file hierarchy matches the package structure. Your folder should loo
 * `Start.java` (in the root)
 * Folder `Frame` containing `FrameModel.java`
 * Folder `Entity` containing `Member.java`
-* Folder `Picture` containing your logo image (e.g., `resize the logo for3 .png`)
+* Folder `Picture` containing your logo image `Iron Nation Fitness Club.png`
 
 ### 3. Compile the Code
 
@@ -107,4 +106,4 @@ This project is free to use for educational purposes.
 
 ---
 
-**Developed by [Mir Masnun Bin Zaman]**
+**Developed by Mir Masnun Bin Zaman**
